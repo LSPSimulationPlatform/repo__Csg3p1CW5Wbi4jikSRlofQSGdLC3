@@ -1,0 +1,25 @@
+{
+  "name": "repo__csg3p1cw5wbi4jiksrlofqsgdlc3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LSPSimulationPlatform/repo__Csg3p1CW5Wbi4jikSRlofQSGdLC3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LSPSimulationPlatform/repo__Csg3p1CW5Wbi4jikSRlofQSGdLC3/issues"
+  },
+  "homepage": "https://github.com/LSPSimulationPlatform/repo__Csg3p1CW5Wbi4jikSRlofQSGdLC3#readme",
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
